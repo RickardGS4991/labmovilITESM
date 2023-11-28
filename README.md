@@ -141,7 +141,7 @@ En esta sección están las personas que han sido colaboradores dentro del repos
   
 - Ricardo Garcia Sedano
 
-## Referencias 
+## Referencia
 
 - ![Bancada Didáctica de Control de Procesos](https://www.algetec.com.br/br/bancada-didatica-de-controle-de-processos-industriais-vazao-nivel-temperatura-e-pressao-versao-premium)
 
